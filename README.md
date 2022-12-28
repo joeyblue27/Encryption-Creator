@@ -8,3 +8,10 @@
 * Creates a unique string of passwords.
 
 ![Encryption Creator](./assets/encryptcreator.png)
+
+# Links
+<a href="https://joeyblue27.github.io/Encryption-Creator"
+target="_blank">Deployed</a>
+
+<a href="https://github.com/joeyblue27/Encryption-Creator"
+target="_blank">Github Repo</a>
