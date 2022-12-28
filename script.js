@@ -66,7 +66,7 @@ function getRandom(arr) {
 }
 
 
-
+// adds to the array and returns the new length of the array
 
 function generator() {
 
