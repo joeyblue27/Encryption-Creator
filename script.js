@@ -98,8 +98,8 @@ function generator() {
   }
 
   for (var i = 0; i < types.length; i++) {
-    var keyTypes = getRandom(keyTypes);
-    generate.push(keyTypes);
+    var keyType = getRandom(keyTypes);
+    generate.push(keyType);
   }
 
   for (var i = 0; i < allKeys.length; i++) {
