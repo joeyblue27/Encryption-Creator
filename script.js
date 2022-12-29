@@ -38,8 +38,8 @@ var specialsCon = confirm('confirm the special keys');
 
 if 
 (
-uppercaseCon === false && lowercaseCon === false &&
-numbersCon === false && specialsCon === false
+uppercaseCon !== true && lowercaseCon !== true &&
+numbersCon !== true && specialsCon !== true
 ){alert ('please select one of the types')}
 
 
