@@ -36,11 +36,10 @@ var specialsCon = confirm('confirm the special keys');
 
 // Conditional statement declaring confirmation 
 
-if 
-(
-uppercaseCon !== true && lowercaseCon !== true &&
-numbersCon !== true && specialsCon !== true
-){alert ('please select one of the types')}
+if (
+uppercaseCon === false && lowercaseCon === false &&
+numbersCon === false && specialsCon === false
+){alert ('please select one of the types')} 
 
 
 // User input property length Array
